@@ -11,5 +11,6 @@ class calculator:
     def div(self, a, b):
         return a / b
 
-    def power(self, a, b):
-        return a ** b
+    def power(self, a, c):
+        #bug fix
+        return a ** c
