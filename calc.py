@@ -13,3 +13,6 @@ class calculator:
 
     def pow(self, a, b):
         return a ** b
+
+    def mod(self, a, b):
+        return a % b
